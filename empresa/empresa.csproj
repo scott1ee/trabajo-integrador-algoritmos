@@ -48,10 +48,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="empresa.cs" />
     <Compile Include="grupo-de-obreros.cs" />
     <Compile Include="jefe-de-obra.cs" />
     <Compile Include="obra.cs" />
-    <Compile Include="empresa.cs" />
+    <Compile Include="menu-principal.cs" />
     <Compile Include="obrero.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

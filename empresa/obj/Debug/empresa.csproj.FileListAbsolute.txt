@@ -1,0 +1,6 @@
+C:\Users\fraan\Documents\SharpDevelop Projects\trabajo-practico-integrador-algoritmos\empresa\bin\Debug\empresa.exe.config
+C:\Users\fraan\Documents\SharpDevelop Projects\trabajo-practico-integrador-algoritmos\empresa\bin\Debug\empresa.exe
+C:\Users\fraan\Documents\SharpDevelop Projects\trabajo-practico-integrador-algoritmos\empresa\bin\Debug\empresa.pdb
+C:\Users\fraan\Documents\SharpDevelop Projects\trabajo-practico-integrador-algoritmos\empresa\obj\Debug\empresa.csprojResolveAssemblyReference.cache
+C:\Users\fraan\Documents\SharpDevelop Projects\trabajo-practico-integrador-algoritmos\empresa\obj\Debug\empresa.exe
+C:\Users\fraan\Documents\SharpDevelop Projects\trabajo-practico-integrador-algoritmos\empresa\obj\Debug\empresa.pdb
